@@ -1,0 +1,1 @@
+{"name":"enumify","vers":"0.0.0","deps":[{"name":"enumify_macros","req":">=0.0.0, <0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":null,"package":null}],"cksum":"20de6a443a143070f213c72dd2eec26ecfa9cb645a90c07861acbd2c86a03edf","features":{},"yanked":false,"links":null}
