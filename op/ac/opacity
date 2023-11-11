@@ -1,1 +1,0 @@
-{"name":"opacity","vers":"0.1.0","deps":[{"name":"serde","req":">=1.0.0, <2.0.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":"https://github.com/rust-lang/crates.io-index","package":null}],"cksum":"4c8410497f3d2487bb702f5862fa13e7d7f444c5864a7d42c7be4e4f4c1c3721","features":{},"yanked":false,"links":null}
