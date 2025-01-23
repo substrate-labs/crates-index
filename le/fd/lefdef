@@ -1,0 +1,1 @@
+{"name":"lefdef","vers":"0.1.0","deps":[{"name":"geometry","req":">=0.6.0, <0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":null,"package":null}],"cksum":"07bb58fe14cd3322cbb61fb5855fc739f31b104b1d8d194a53df4e5db7c5bdd8","features":{},"yanked":false,"links":null}
