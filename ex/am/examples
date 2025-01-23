@@ -4,3 +4,4 @@
 {"name":"examples","vers":"0.1.0","deps":[],"cksum":"1ee11432a5e61c1fb85f9c7dd3f409cb8059eb681d4049ec48912f880b9b4935","features":{},"yanked":false,"links":null}
 {"name":"examples","vers":"0.1.1","deps":[],"cksum":"2e07c1b48e0f9fd20a7fbcde52298397af22fdd77d713600a6fe4161b3939301","features":{},"yanked":false,"links":null}
 {"name":"examples","vers":"0.1.2","deps":[],"cksum":"64598d838b4b231e75906b20293f619598bdd0a5515fdb10228ff1dcc57a28b4","features":{},"yanked":false,"links":null}
+{"name":"examples","vers":"0.2.0","deps":[],"cksum":"107c1875b626842b2c03cd55988d04c3cb3e6e8e3ad0691a82d5b61ee190558b","features":{},"yanked":false,"links":null}
