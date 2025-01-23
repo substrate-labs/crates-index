@@ -1,0 +1,1 @@
+{"name":"verilog","vers":"0.1.0","deps":[{"name":"scir","req":">=0.8.0, <0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":null,"package":null}],"cksum":"60d60bfd10a038db48f5f9e76e281e2d7d1add4973137fbdcdc78bd25415b372","features":{},"yanked":false,"links":null}
